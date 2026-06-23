@@ -3,7 +3,7 @@ const neighborhoodData = [
   {
     id: "01",
     name: "Khu phố Phong Hải",
-    originalWard: "Phong Hải cũ",
+    originalWard: "Phong Hải 1, Phong hải 2, Phong Hải 3",
     lat: 20.9142,
     lng: 106.8192,
     households: 744,
@@ -25,7 +25,7 @@ const neighborhoodData = [
   {
     id: "02",
     name: "Khu phố Trung Hải",
-    originalWard: "Phong Hải cũ",
+    originalWard: "Phong Hải 4, Phong Hải 5, Phong Hải 6",
     lat: 20.9078,
     lng: 106.8270,
     households: 702,
@@ -47,7 +47,7 @@ const neighborhoodData = [
   {
     id: "03",
     name: "Khu phố Đông Hải",
-    originalWard: "Phong Hải cũ",
+    originalWard: "Phong Hải 7, Phong Hải 8",
     lat: 20.9008,
     lng: 106.8355,
     households: 749,
@@ -69,7 +69,7 @@ const neighborhoodData = [
   {
     id: "04",
     name: "Khu phố Trung Bản",
-    originalWard: "Liên Hòa cũ",
+    originalWard: "Liên Hòa 1, Liên Hòa 2, Liên Hòa 3",
     lat: 20.8738,
     lng: 106.8428,
     households: 625,
@@ -91,7 +91,7 @@ const neighborhoodData = [
   {
     id: "05",
     name: "Khu phố Quỳnh Biểu",
-    originalWard: "Liên Hòa cũ",
+    originalWard: "Liên Hòa 4, Liên Hòa 5",
     lat: 20.8668,
     lng: 106.8508,
     households: 559,
@@ -113,7 +113,7 @@ const neighborhoodData = [
   {
     id: "06",
     name: "Khu phố Lưu Khê",
-    originalWard: "Liên Hòa cũ",
+    originalWard: "Liên Hòa 6, Liên Hòa 7, Liên Hòa 8",
     lat: 20.8585,
     lng: 106.8582,
     households: 952,
@@ -135,7 +135,7 @@ const neighborhoodData = [
   {
     id: "07",
     name: "Khu phố Tiền Phong",
-    originalWard: "Tiền Phong cũ",
+    originalWard: "Tiền Phong 1, Tiền Phong 2, Tiền Phong 3, Tiền Phong 4",
     lat: 20.8500,
     lng: 106.8406,
     households: 551,
@@ -157,7 +157,7 @@ const neighborhoodData = [
   {
     id: "08",
     name: "Khu phố Liên Vị",
-    originalWard: "Liên Vị cũ",
+    originalWard: "Nam 1, Nam 2, Đông 2",
     lat: 20.8662,
     lng: 106.8123,
     households: 739,
@@ -179,7 +179,7 @@ const neighborhoodData = [
   {
     id: "09",
     name: "Khu phố Vị Dương",
-    originalWard: "Liên Vị cũ",
+    originalWard: "Đình 1, Đình 2, Đông 1",
     lat: 20.8626,
     lng: 106.8001,
     households: 591,
@@ -201,7 +201,7 @@ const neighborhoodData = [
   {
     id: "10",
     name: "Khu phố Quán",
-    originalWard: "Liên Vị cũ",
+    originalWard: "Quán, Bầu, Hàn",
     lat: 20.8548,
     lng: 106.8078,
     households: 641,
@@ -223,7 +223,7 @@ const neighborhoodData = [
   {
     id: "11",
     name: "Khu phố Vị Khê",
-    originalWard: "Liên Vị cũ",
+    originalWard: "Bấc, Vị Khê",
     lat: 20.8475,
     lng: 106.7950,
     households: 650,
