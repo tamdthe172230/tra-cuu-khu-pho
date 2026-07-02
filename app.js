@@ -14,12 +14,9 @@ const neighborhoodData = [
     distToWardCenter: 4.0,
     mergerPlan: "Sáp nhập KP Phong Hải 1, 2, 3 cũ",
     officials: [
-      { name: "Nguyễn Văn Hùng", role: "Bí thư Chi bộ", phone: "0912.345.671", email: "nvhung.ph@lienhoa.quangninh.gov.vn" },
-      { name: "Lê Thị Tuyết", role: "Trưởng khu phố", phone: "0989.123.451", email: "lttuyet.ph@lienhoa.quangninh.gov.vn" },
-      { name: "Phạm Văn Minh", role: "Phó Bí thư Chi bộ", phone: "0976.234.561", email: "pvminh.ph@lienhoa.quangninh.gov.vn" },
-      { name: "Hoàng Văn Cường", role: "Phó Trưởng khu phố", phone: "0904.345.671", email: "hvcuong.ph@lienhoa.quangninh.gov.vn" },
-      { name: "Trần Thị Mai", role: "Trưởng Ban công tác Mặt trận", phone: "0915.678.901", email: "ttmai.ph@lienhoa.quangninh.gov.vn" },
-      { name: "Nguyễn Thị Lan", role: "Chi hội trưởng Phụ nữ", phone: "0936.789.012", email: "ntlan.ph@lienhoa.quangninh.gov.vn" }
+      { name: "Bùi Thị Hoàn", role: "Bí thư Chi bộ", phone: "0367259233", email: "" },
+      { name: "Phạm Thị Bình", role: "Trưởng khu", phone: "0358005830", email: "" },
+      { name: "Bùi Huy Viên", role: "Trưởng ban CTMT", phone: "0976755802", email: "" },
     ]
   },
   {
@@ -36,12 +33,9 @@ const neighborhoodData = [
     distToWardCenter: 3.0,
     mergerPlan: "Sáp nhập KP Phong Hải 4, 5, 6 cũ",
     officials: [
-      { name: "Trần Văn Nam", role: "Bí thư Chi bộ", phone: "0912.345.672", email: "tvnam.th@lienhoa.quangninh.gov.vn" },
-      { name: "Nguyễn Thị Bích", role: "Trưởng khu phố", phone: "0989.123.452", email: "ntbich.th@lienhoa.quangninh.gov.vn" },
-      { name: "Phạm Thanh Sơn", role: "Phó Bí thư Chi bộ", phone: "0976.234.562", email: "ptson.th@lienhoa.quangninh.gov.vn" },
-      { name: "Bùi Văn Hải", role: "Phó Trưởng khu phố", phone: "0904.345.672", email: "bvhai.th@lienhoa.quangninh.gov.vn" },
-      { name: "Đỗ Thị Thu", role: "Trưởng Ban công tác Mặt trận", phone: "0915.678.902", email: "dtthu.th@lienhoa.quangninh.gov.vn" },
-      { name: "Vũ Văn Tuấn", role: "Công an viên khu phố", phone: "0936.789.013", email: "vvtuan.th@lienhoa.quangninh.gov.vn" }
+      { name: "Ngô Bá Bí", role: "Bí thư Chi bộ", phone: "0336237695", email: "" },
+      { name: "Vũ Tài Thụy", role: "Trưởng khu", phone: "0388138099", email: "" },
+      { name: "Bùi Thế Trung", role: "Trưởng ban CTMT", phone: "0986188638", email: "" },
     ]
   },
   {
@@ -58,12 +52,9 @@ const neighborhoodData = [
     distToWardCenter: 3.0,
     mergerPlan: "Sáp nhập KP Phong Hải 7, 8 cũ",
     officials: [
-      { name: "Phạm Văn Long", role: "Bí thư Chi bộ", phone: "0912.345.673", email: "pvlong.dh@lienhoa.quangninh.gov.vn" },
-      { name: "Đặng Đình Tiến", role: "Trưởng khu phố", phone: "0989.123.453", email: "ddtien.dh@lienhoa.quangninh.gov.vn" },
-      { name: "Ngô Thị Dung", role: "Phó Bí thư Chi bộ", phone: "0976.234.563", email: "ntdung.dh@lienhoa.quangninh.gov.vn" },
-      { name: "Trịnh Văn Thành", role: "Phó Trưởng khu phố", phone: "0904.345.673", email: "tvthanh.dh@lienhoa.quangninh.gov.vn" },
-      { name: "Nguyễn Văn Dũng", role: "Trưởng Ban công tác Mặt trận", phone: "0915.678.903", email: "nvdung.dh@lienhoa.quangninh.gov.vn" },
-      { name: "Lê Minh Khoa", role: "Bí thư Chi đoàn", phone: "0936.789.014", email: "lmkhoa.dh@lienhoa.quangninh.gov.vn" }
+      { name: "Lê Văn Hào", role: "Bí thư Chi bộ", phone: "0963884262", email: "" },
+      { name: "Vũ Trọng Thiệp", role: "Trưởng khu", phone: "0987647293", email: "" },
+      { name: "Nguyễn Văn Hợi", role: "Trưởng ban CTMT", phone: "0394783498", email: "" },
     ]
   },
   {
@@ -80,12 +71,9 @@ const neighborhoodData = [
     distToWardCenter: 2.0,
     mergerPlan: "Sáp nhập KP Liên Hòa 1, 2, 3 cũ",
     officials: [
-      { name: "Đỗ Văn Bình", role: "Bí thư Chi bộ", phone: "0912.345.674", email: "dvbinh.tb@lienhoa.quangninh.gov.vn" },
-      { name: "Hoàng Thị Yến", role: "Trưởng khu phố", phone: "0989.123.454", email: "htyen.tb@lienhoa.quangninh.gov.vn" },
-      { name: "Nguyễn Văn Khải", role: "Phó Bí thư Chi bộ", phone: "0976.234.564", email: "nvkhai.tb@lienhoa.quangninh.gov.vn" },
-      { name: "Trần Công Danh", role: "Phó Trưởng khu phố", phone: "0904.345.674", email: "tcdanh.tb@lienhoa.quangninh.gov.vn" },
-      { name: "Phạm Thị Ngọc", role: "Trưởng Ban công tác Mặt trận", phone: "0915.678.904", email: "ptngoc.tb@lienhoa.quangninh.gov.vn" },
-      { name: "Nguyễn Tuấn Anh", role: "Công an viên khu phố", phone: "0936.789.015", email: "ntanh.tb@lienhoa.quangninh.gov.vn" }
+      { name: "Nguyễn Hoàng Sơn", role: "Bí thư Chi bộ", phone: "0356480893", email: "" },
+      { name: "Nguyễn Thị Hồng Hiếu", role: "Trưởng khu", phone: "0332592569", email: "" },
+      { name: "Trần Thị Tuyết Anh", role: "Trưởng ban CTMT", phone: "0975628037", email: "" },
     ]
   },
   {
@@ -102,12 +90,9 @@ const neighborhoodData = [
     distToWardCenter: 2.0,
     mergerPlan: "Sáp nhập KP Liên Hòa 4, 5 cũ",
     officials: [
-      { name: "Vũ Đức Thịnh", role: "Bí thư Chi bộ", phone: "0912.345.675", email: "vdthinh.qb@lienhoa.quangninh.gov.vn" },
-      { name: "Nguyễn Văn Quảng", role: "Trưởng khu phố", phone: "0989.123.455", email: "nvquang.qb@lienhoa.quangninh.gov.vn" },
-      { name: "Đỗ Thị Hằng", role: "Phó Bí thư Chi bộ", phone: "0976.234.565", email: "dthang.qb@lienhoa.quangninh.gov.vn" },
-      { name: "Bùi Quốc Việt", role: "Phó Trưởng khu phố", phone: "0904.345.675", email: "bqviet.qb@lienhoa.quangninh.gov.vn" },
-      { name: "Trần Văn Đạt", role: "Trưởng Ban công tác Mặt trận", phone: "0915.678.905", email: "tvdat.qb@lienhoa.quangninh.gov.vn" },
-      { name: "Lê Thị Hương", role: "Chi hội trưởng Phụ nữ", phone: "0936.789.016", email: "lthuong.qb@lienhoa.quangninh.gov.vn" }
+      { name: "Nguyễn Văn Thảo", role: "Bí thư Chi bộ", phone: "0356361408", email: "" },
+      { name: "Trần Văn Thương", role: "Trưởng khu", phone: "0386713140", email: "" },
+      { name: "Vũ Quốc Kỳ", role: "Trưởng ban CTMT", phone: "0399376367", email: "" },
     ]
   },
   {
@@ -124,12 +109,9 @@ const neighborhoodData = [
     distToWardCenter: 2.0,
     mergerPlan: "Sáp nhập KP Liên Hòa 6, 7, 8 cũ",
     officials: [
-      { name: "Lương Văn Quyết", role: "Bí thư Chi bộ", phone: "0912.345.676", email: "lvquyet.lk@lienhoa.quangninh.gov.vn" },
-      { name: "Phạm Thế Hùng", role: "Trưởng khu phố", phone: "0989.123.456", email: "pthung.lk@lienhoa.quangninh.gov.vn" },
-      { name: "Nguyễn Thị Thuận", role: "Phó Bí thư Chi bộ", phone: "0976.234.566", email: "ntthuan.lk@lienhoa.quangninh.gov.vn" },
-      { name: "Hoàng Văn Hải", role: "Phó Trưởng khu phố", phone: "0904.345.676", email: "hvhai.lk@lienhoa.quangninh.gov.vn" },
-      { name: "Trịnh Quốc Tuấn", role: "Trưởng Ban công tác Mặt trận", phone: "0915.678.906", email: "tqtuan.lk@lienhoa.quangninh.gov.vn" },
-      { name: "Đào Văn Nghĩa", role: "Công an viên khu phố", phone: "0936.789.017", email: "dvnghia.lk@lienhoa.quangninh.gov.vn" }
+      { name: "Đỗ Văn Nhất", role: "Bí thư Chi bộ", phone: "098297033", email: "" },
+      { name: "Phạm Thị Giang", role: "Trưởng khu", phone: "0975466939", email: "" },
+      { name: "Nguyễn Thị Chiên", role: "Trưởng ban CTMT", phone: "0382598918", email: "" },
     ]
   },
   {
@@ -146,12 +128,9 @@ const neighborhoodData = [
     distToWardCenter: 7.0,
     mergerPlan: "Sáp nhập KP Tiền Phong 1, 2, 3, 4 cũ",
     officials: [
-      { name: "Nguyễn Văn Lực", role: "Bí thư Chi bộ", phone: "0912.345.677", email: "nvluc.tp@lienhoa.quangninh.gov.vn" },
-      { name: "Trương Văn Đông", role: "Trưởng khu phố", phone: "0989.123.457", email: "tvdong.tp@lienhoa.quangninh.gov.vn" },
-      { name: "Đặng Văn Nam", role: "Phó Bí thư Chi bộ", phone: "0976.234.567", email: "dvnam.tp@lienhoa.quangninh.gov.vn" },
-      { name: "Vũ Văn Hoạt", role: "Phó Trưởng khu phố", phone: "0904.345.677", email: "vvhoat.tp@lienhoa.quangninh.gov.vn" },
-      { name: "Hoàng Văn Thái", role: "Trưởng Ban công tác Mặt trận", phone: "0915.678.907", email: "hvthai.tp@lienhoa.quangninh.gov.vn" },
-      { name: "Nguyễn Thị Thảo", role: "Chi hội trưởng Phụ nữ", phone: "0936.789.018", email: "ntthao.tp@lienhoa.quangninh.gov.vn" }
+      { name: "Đỗ Thị Đún", role: "Bí thư Chi bộ", phone: "0340200839", email: "" },
+      { name: "Lê Thị Bích Huệ", role: "Trưởng khu", phone: "0982381936", email: "" },
+      { name: "Phạm Văn Tĩnh", role: "Trưởng ban CTMT", phone: "0383267999", email: "" },
     ]
   },
   {
@@ -168,12 +147,9 @@ const neighborhoodData = [
     distToWardCenter: 3.5,
     mergerPlan: "Sáp nhập KP Nam 1, Nam 2, Đông 2 cũ",
     officials: [
-      { name: "Nguyễn Văn Sơn", role: "Bí thư Chi bộ", phone: "0912.345.678", email: "nvson.lv@lienhoa.quangninh.gov.vn" },
-      { name: "Bùi Văn Lâm", role: "Trưởng khu phố", phone: "0989.123.458", email: "bvlam.lv@lienhoa.quangninh.gov.vn" },
-      { name: "Lê Văn Hùng", role: "Phó Bí thư Chi bộ", phone: "0976.234.568", email: "lvhung.lv@lienhoa.quangninh.gov.vn" },
-      { name: "Phạm Văn Hải", role: "Phó Trưởng khu phố", phone: "0904.345.678", email: "pvhai.lv@lienhoa.quangninh.gov.vn" },
-      { name: "Trần Thị Hoa", role: "Trưởng Ban công tác Mặt trận", phone: "0915.678.908", email: "tthoa.lv@lienhoa.quangninh.gov.vn" },
-      { name: "Nguyễn Văn Phóng", role: "Công an viên khu phố", phone: "0936.789.019", email: "nvphong.lv@lienhoa.quangninh.gov.vn" }
+      { name: "Hoàng Thị Mai", role: "Bí thư Chi bộ", phone: "0367615346", email: "" },
+      { name: "Đỗ Thị Lệ", role: "Trưởng khu", phone: "0373241891", email: "" },
+      { name: "Cao Thị Châm", role: "Trưởng ban CTMT", phone: "0363528862", email: "" },
     ]
   },
   {
@@ -190,12 +166,9 @@ const neighborhoodData = [
     distToWardCenter: 4.0,
     mergerPlan: "Sáp nhập KP Đình 1, Đình 2, Đông 1 cũ",
     officials: [
-      { name: "Đỗ Văn Minh", role: "Bí thư Chi bộ", phone: "0912.345.679", email: "dvminh.vd@lienhoa.quangninh.gov.vn" },
-      { name: "Hoàng Văn Lợi", role: "Trưởng khu phố", phone: "0989.123.459", email: "hvloi.vd@lienhoa.quangninh.gov.vn" },
-      { name: "Nguyễn Thị Liên", role: "Phó Bí thư Chi bộ", phone: "0976.234.569", email: "ntlien.vd@lienhoa.quangninh.gov.vn" },
-      { name: "Trần Công Phượng", role: "Phó Trưởng khu phố", phone: "0904.345.679", email: "tcphuong.vd@lienhoa.quangninh.gov.vn" },
-      { name: "Vũ Đình Tuân", role: "Trưởng Ban công tác Mặt trận", phone: "0915.678.909", email: "vdtuan.vd@lienhoa.quangninh.gov.vn" },
-      { name: "Phạm Minh Quang", role: "Bí thư Chi đoàn", phone: "0936.789.020", email: "pmquang.vd@lienhoa.quangninh.gov.vn" }
+      { name: "Đỗ Văn Nhân", role: "Bí thư Chi bộ", phone: "0966925479", email: "" },
+      { name: "Đỗ Thị Ngoan", role: "Trưởng khu", phone: "0367143661", email: "" },
+      { name: "Hoàng Thị Hoài", role: "Trưởng ban CTMT", phone: "0384691735", email: "" },
     ]
   },
   {
@@ -212,12 +185,9 @@ const neighborhoodData = [
     distToWardCenter: 4.5,
     mergerPlan: "Sáp nhập KP Quán, Bầu, Hàn cũ",
     officials: [
-      { name: "Nguyễn Văn Thắng", role: "Bí thư Chi bộ", phone: "0912.345.680", email: "nvthang.q@lienhoa.quangninh.gov.vn" },
-      { name: "Phạm Văn Tiến", role: "Trưởng khu phố", phone: "0989.123.460", email: "pvtien.q@lienhoa.quangninh.gov.vn" },
-      { name: "Lê Đình Cương", role: "Phó Bí thư Chi bộ", phone: "0976.234.570", email: "ldcuong.q@lienhoa.quangninh.gov.vn" },
-      { name: "Bùi Thị Thủy", role: "Phó Trưởng khu phố", phone: "0904.345.680", email: "btthuy.q@lienhoa.quangninh.gov.vn" },
-      { name: "Hoàng Đức Toàn", role: "Trưởng Ban công tác Mặt trận", phone: "0915.678.910", email: "hdtoan.q@lienhoa.quangninh.gov.vn" },
-      { name: "Nguyễn Công Lý", role: "Công an viên khu phố", phone: "0936.789.021", email: "ncly.q@lienhoa.quangninh.gov.vn" }
+      { name: "Nguyễn Văn Phi", role: "Bí thư Chi bộ", phone: "0349063983", email: "" },
+      { name: "Nguyễn Thị Lệ Minh", role: "Trưởng khu", phone: "0359421978", email: "" },
+      { name: "Lê Xuân Vịnh", role: "Trưởng ban CTMT", phone: "0347090213", email: "" },
     ]
   },
   {
@@ -234,12 +204,9 @@ const neighborhoodData = [
     distToWardCenter: 5.5,
     mergerPlan: "Sáp nhập khu Bấc và khu Vị Khê cũ",
     officials: [
-      { name: "Trịnh Văn Quân", role: "Bí thư Chi bộ", phone: "0912.345.681", email: "tvquan.vk@lienhoa.quangninh.gov.vn" },
-      { name: "Lương Đình Hùng", role: "Trưởng khu phố", phone: "0989.123.461", email: "ldhung.vk@lienhoa.quangninh.gov.vn" },
-      { name: "Đỗ Thị Mơ", role: "Phó Bí thư Chi bộ", phone: "0976.234.571", email: "dtmo.vk@lienhoa.quangninh.gov.vn" },
-      { name: "Phạm Văn Bằng", role: "Phó Trưởng khu phố", phone: "0904.345.681", email: "pvbang.vk@lienhoa.quangninh.gov.vn" },
-      { name: "Vũ Văn Khải", role: "Trưởng Ban công tác Mặt trận", phone: "0915.678.911", email: "vvkhai.vk@lienhoa.quangninh.gov.vn" },
-      { name: "Nguyễn Hoàng Hải", role: "Công an viên khu phố", phone: "0936.789.022", email: "nhhai.vk@lienhoa.quangninh.gov.vn" }
+      { name: "Đỗ Văn Kiên", role: "Bí thư Chi bộ", phone: "0386574216", email: "" },
+      { name: "Lê Ngọc Phượng", role: "Trưởng khu", phone: "0348691933", email: "" },
+      { name: "Đặng Thị Quyên", role: "Trưởng ban CTMT", phone: "0327878038", email: "" },
     ]
   }
 ];
